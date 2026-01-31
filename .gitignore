@@ -1,0 +1,5 @@
+_next_backup/
+_site/
+node_modules/
+.DS_Store
+*.log
