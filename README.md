@@ -1,0 +1,1 @@
+# travelkutch-static
