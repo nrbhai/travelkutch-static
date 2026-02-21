@@ -17,5 +17,5 @@ Disallow: /api/
 Disallow: /admin/
 Disallow: /private/
 
-Host: https://kutchtravel.com
-Sitemap: https://kutchtravel.com/sitemap.xml
+Host: travelkutch.org
+Sitemap: https://travelkutch.org/sitemap.xml
